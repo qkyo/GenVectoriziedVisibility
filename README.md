@@ -7,6 +7,6 @@
 
  ![image](https://github.com/qkyo/GenVectoriziedVisibility/blob/main/Assets/Resources/Fix%20view.gif)
     
- * Visibility from fixed view
+ * Visibility from depth view
  
  ![image](https://github.com/qkyo/GenVectoriziedVisibility/blob/main/Assets/Resources/Depth%20view%20visibility.gif)
