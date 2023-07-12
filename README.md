@@ -1,5 +1,5 @@
 # GenVectoriziedVisibility
- Generate vectorized visibility for models with native plugins
+ Generate vectorized visibility for models with native plugins (cuda included)
 
 ## Example
 
