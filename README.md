@@ -1,5 +1,5 @@
 # GenVectoriziedVisibility
- Generate vectorized visibility for the geometry perspective with native plugins (cuda included)
+ Generate vectorized visibility from the geometry perspective with native plugins (cuda included)
 
 ## Example
 
